@@ -1,52 +1,96 @@
-# Hi, I'm Shivani Singhal 👋
+<div align="center">
 
-Backend Software Engineer 5+ years of exp, passionate about building scalable, event-driven systems in Java. I enjoy tackling real-world engineering challenges — from distributed messaging to constraint-based optimization.
+# Shivani Singhal
+### Senior Software Engineer · Backend & Distributed Systems
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani%20Singhal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-singhal)
+[![GitHub](https://img.shields.io/badge/GitHub-ShivaniSinghal27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivaniSinghal27)
+[![Location](https://img.shields.io/badge/📍-Gurgaon%2C%20India-4A90D9?style=flat-square)](#)
 
-## 🛠️ Tech Stack
-
-**Languages:** Java 17/21  
-**Frameworks:** Spring Boot 3, Spring Kafka  
-**Messaging:** Apache Kafka  
-**Build Tools:** Maven, Gradle  
-**Infrastructure:** Docker, Docker Compose  
-**APIs:** REST, OpenAPI / Swagger  
-**Databases:** PostgreSQL, H2  
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### [kafka-booking-system](https://github.com/ShivaniSinghal27/kafka-booking-system)
-A Spring Boot hotel booking system built on Apache Kafka with a focus on reliability and correctness.
-- Kafka partitioning by `bookingId` to guarantee ordered message processing
-- `@RetryableTopic` with configurable retries and Dead Letter Topic (DLT) handling
-- Idempotent DB writes to prevent duplicate bookings
-- REST API with Swagger UI and H2 in-memory database for demo
+5+ years of backend engineering experience building **high-throughput microservices** and **event-driven systems** at scale. Currently designing and owning backend services for travel-tech platforms, with hands-on expertise across the full lifecycle — from system design to production observability.
 
-### [smartload-optimization-api](https://github.com/ShivaniSinghal27/smartload-optimization-api)
-A stateless Spring Boot service that computes the highest-payout order combination for a truck under real-world logistics constraints.
-- Branch-and-bound search over a bitmask state space with pairwise compatibility precomputation
-- Enforces capacity, lane, hazmat isolation, and shipment-window constraints
-- Fully Dockerized — `docker compose up --build` and it's running
-- OpenAPI docs at `/swagger-ui.html`
-
-### [LLDExample](https://github.com/ShivaniSinghal27/LLDExample)
-Low-Level Design implementations in Java — class design, design patterns, and object-oriented modeling practice.
-
-### [Sprint_example](https://github.com/ShivaniSinghal27/Sprint_example)
-Spring Boot example project demonstrating core framework concepts and patterns.
-
-### [interviewcodingpractise](https://github.com/ShivaniSinghal27/interviewcodingpractise)
-DSA and coding interview practice in Java — arrays, trees, graphs, dynamic programming, and more.
+I work primarily in **Java & Spring Boot**, with a focus on reliability, performance, and clean architecture.
 
 ---
 
-## 📫 Connect
+## 🔧 Technical Skills
 
-[![GitHub](https://img.shields.io/badge/GitHub-ShivaniSinghal27-181717?logo=github)](https://github.com/ShivaniSinghal27)
+| Domain | Technologies |
+|---|---|
+| **Languages** | Java 17/21 |
+| **Frameworks** | Spring Boot 3, Spring MVC, Spring Kafka, Hibernate |
+| **Messaging** | Apache Kafka |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, Jenkins, GitHub Actions |
+| **Databases** | PostgreSQL, Redis, H2 |
+| **Observability** | ELK Stack (Elasticsearch, Logstash, Kibana) |
+| **API** | REST, OpenAPI / Swagger |
+| **Build** | Maven, Gradle |
 
 ---
 
-*Always building, always learning.*
+## 📂 Featured Projects
+
+### 🏨 [Kafka Booking System](https://github.com/ShivaniSinghal27/kafka-booking-system)
+> Event-driven hotel booking service built on Apache Kafka with production-grade reliability patterns.
+
+- Kafka partitioning by `bookingId` ensures strict message ordering per booking
+- `@RetryableTopic` with configurable backoff + Dead Letter Topic (DLT) for fault tolerance
+- Idempotent DB writes to prevent duplicate bookings under retry scenarios
+- Swagger UI + H2 console for local testing
+
+**Stack:** Java · Spring Boot · Apache Kafka · Gradle · H2 / PostgreSQL
+
+---
+
+### 🚛 [SmartLoad Optimization API](https://github.com/ShivaniSinghal27/smartload-optimization-api)
+> Stateless constraint-solving service that finds the maximum-payout order combination for logistics routing.
+
+- Branch-and-bound search with bitmask state space and precomputed pairwise compatibility
+- Enforces capacity, lane, hazmat isolation, and shipment-window constraints simultaneously
+- Fully Dockerized — `docker compose up --build` to run
+- OpenAPI docs and health check via Spring Actuator
+
+**Stack:** Java 21 · Spring Boot 3 · Maven · Docker / Docker Compose
+
+---
+
+### 🧩 [LLD Examples](https://github.com/ShivaniSinghal27/LLDExample)
+> Low-Level Design implementations — class modeling, SOLID principles, and design patterns in Java.
+
+---
+
+### 💻 [Interview Coding Practice](https://github.com/ShivaniSinghal27/interviewcodingpractise)
+> DSA practice in Java — arrays, trees, graphs, dynamic programming, and sliding window problems.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivaniSinghal27&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniSinghal27&layout=compact&hide_border=true&title_color=0A66C2&theme=default)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.E. Electronics & Communication Engineering**  
+IIIT Kota · 2016 – 2020 · CGPA: 8.27
+
+---
+
+<div align="center">
+
+*Building reliable systems, one service at a time.*
+
+</div>
