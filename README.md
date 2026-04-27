@@ -1,6 +1,6 @@
 # Hi, I'm Shivani Singhal 👋
 
-Backend Software Engineer passionate about building scalable, event-driven systems in Java. I enjoy tackling real-world engineering challenges — from distributed messaging to constraint-based optimization.
+Backend Software Engineer 5+ years of exp, passionate about building scalable, event-driven systems in Java. I enjoy tackling real-world engineering challenges — from distributed messaging to constraint-based optimization.
 
 ---
 
