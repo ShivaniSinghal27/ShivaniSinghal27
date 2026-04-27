@@ -3,7 +3,7 @@
 # Shivani Singhal
 ### Senior Software Engineer · Backend & Distributed Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani%20Singhal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-singhal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani%20Singhal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-singhal9)
 [![GitHub](https://img.shields.io/badge/GitHub-ShivaniSinghal27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShivaniSinghal27)
 [![Location](https://img.shields.io/badge/📍-Gurgaon%2C%20India-4A90D9?style=flat-square)](#)
 
